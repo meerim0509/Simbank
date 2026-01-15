@@ -5,6 +5,7 @@ public class Delivery {
 
         System.out.println("Delivery Yandex");
         System.out.println("Delivery Glovo");
+        System.out.println("Delivery Glovo");
         System.out.println("Delivery Kover-samolet");
         System.out.println("Self Delivery");
     }
